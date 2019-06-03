@@ -1,0 +1,24 @@
+.header-layout {
+  width: 100%;
+}
+
+.header-layout .body {
+  display: flex;
+  flex-direction: row;
+  background-color: #DBDBDB;
+}
+
+.header-layout .main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.header-layout .sider {
+  width: 25%;
+  height: 750px;
+  margin-top: 25px;
+  margin-left: 50px;
+  border-radius: 10px;
+}

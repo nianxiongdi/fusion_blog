@@ -1,0 +1,9 @@
+@charset "UTF-8";
+html {
+  margin: 0 auto;
+  padding: 0;
+  height: 100%;
+  /* 高度自适应 */
+  background-color: #DBDBDB;
+  /* 颜色 */
+}
