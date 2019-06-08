@@ -1,0 +1,74 @@
+.comment-wrap {
+  margin: 20px 0 0 0;
+}
+.comment-submit {
+  margin: 20px 0 0 0;
+  display: flex;
+  flex-direction: row-reverse;
+}
+.comment-list .ant-list {
+  background: #fff;
+  padding: 10px;
+  margin: 20px 0 0 0;
+}
+.comment-list .ant-list-item-action {
+
+}
+
+
+.blog {
+  // border: 1px red solid;
+  width: 1005px;
+  &-ul {
+    &-li {
+      // border: 1px solid blue;
+      background-color: white;
+      border-radius: 5px;
+      height: 80px;
+      padding: 10px;
+      margin: 5px;
+    }
+  }
+  .content {
+    position: relative;
+
+    &-title > span:first-child {
+      color: #2e3135;
+      font-size: 23px;
+      font-family: "Times New Roman", Times, serif;
+      font-weight: 360;
+      cursor: pointer;
+    }
+
+    &-date {
+      position: absolute;
+      font-size: 12px;
+      font-family: "Times New Roman", Times, serif;
+      right: 8px;
+      color: #333333;
+    }
+
+    &-des {
+      font-size: 12px;
+      font-family: "Times New Roman", Times, serif;
+      right: 8px;
+      color: #333333;
+      margin-top: 10px;
+      cursor: pointer;
+    }
+
+    &-ul {
+      list-style: none; /* 将默认的列表符号去掉 */
+      &-li {
+        float: left;
+        padding: 5px;
+        // cursor:pointer;
+      }
+    }
+  }
+
+  &-pagination {
+    float: right;
+    padding-right: 5px;
+  }
+}

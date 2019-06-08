@@ -6,7 +6,7 @@ import { getBlogDesc } from '../../redux/blog.redux'
 import marked from 'marked'
 import hljs from 'highlight.js'
 import Navigation from './navigation'
-
+import Comment from '../../components/comment'
 import {
   timetrans,
   color
@@ -47,6 +47,8 @@ class BlogDetail extends React.Component {
   }
   render() {
     // console.log(this.props.desc.content);
+    // console.log(this.props);
+    console.log(']]]]]');
     const IconText = ({ type, text }) => (
       <span key={text}>
         <Icon type={type} style={{ marginRight: 8 }} />
@@ -83,7 +85,7 @@ class BlogDetail extends React.Component {
           >
             <div className="article-tags">
               <span>{this.props.desc.readSize} 次浏览</span>
-              <IconText type="shuqianbookmarks" text={
+              {/* <IconText type="shuqianbookmarks" text={
                 this.props.tags.split(',').map(v => (
                   <Tag
                     key={v}
@@ -93,7 +95,7 @@ class BlogDetail extends React.Component {
                     {v}
                   </Tag>
                 ))}
-              />
+              /> */}
             </div>
             <div
               className="article-detail"
@@ -101,7 +103,7 @@ class BlogDetail extends React.Component {
               dangerouslySetInnerHTML={{ __html: this.props.desc.content ? marked(this.props.desc.content) : null }}
             />
           </Card>
-
+          <Comment />
         </Col>
         <Col
           lg={{ span: 10,   }}
@@ -120,6 +122,7 @@ class BlogDetail extends React.Component {
           }
         </Col>
       </Row>
+
     )
   }
 

@@ -1,0 +1,1147 @@
+2019-05-24 11:15:59,599 ERROR 12951 [-/127.0.0.1/-/16ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 12951
+hostname: xy2
+
+2019-05-24 11:16:02,355 ERROR 12951 [-/127.0.0.1/-/5ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 12951
+hostname: xy2
+
+2019-05-24 11:16:03,300 ERROR 12951 [-/127.0.0.1/-/4ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 12951
+hostname: xy2
+
+2019-05-24 11:16:04,991 ERROR 12951 [-/127.0.0.1/-/7ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 12951
+hostname: xy2
+
+2019-05-24 11:24:28,118 ERROR 14289 [-/127.0.0.1/-/20ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 14289
+hostname: xy2
+
+2019-05-24 11:24:28,955 ERROR 14289 [-/127.0.0.1/-/2ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 14289
+hostname: xy2
+
+2019-05-24 11:24:29,334 ERROR 14289 [-/127.0.0.1/-/3ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 14289
+hostname: xy2
+
+2019-05-24 11:24:29,553 ERROR 14289 [-/127.0.0.1/-/2ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 14289
+hostname: xy2
+
+2019-05-24 11:24:29,740 ERROR 14289 [-/127.0.0.1/-/1ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 14289
+hostname: xy2
+
+2019-05-24 11:24:30,126 ERROR 14289 [-/127.0.0.1/-/3ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 14289
+hostname: xy2
+
+2019-05-24 11:24:30,335 ERROR 14289 [-/127.0.0.1/-/2ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 14289
+hostname: xy2
+
+2019-05-24 11:24:30,531 ERROR 14289 [-/127.0.0.1/-/2ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 14289
+hostname: xy2
+
+2019-05-24 11:28:20,901 ERROR 14732 [-/127.0.0.1/-/20ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:44)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 14732
+hostname: xy2
+
+2019-05-24 11:31:46,666 ERROR 15239 [-/127.0.0.1/-/13ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:44)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 15239
+hostname: xy2
+
+2019-05-24 11:32:02,144 ERROR 15239 [-/127.0.0.1/-/2ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:44)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 15239
+hostname: xy2
+
+2019-05-24 11:32:02,958 ERROR 15239 [-/127.0.0.1/-/1ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:44)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 15239
+hostname: xy2
+
+2019-05-24 11:32:03,173 ERROR 15239 [-/127.0.0.1/-/1ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:44)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 15239
+hostname: xy2
+
+2019-05-24 11:32:03,374 ERROR 15239 [-/127.0.0.1/-/1ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:44)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 15239
+hostname: xy2
+
+2019-05-24 11:32:03,556 ERROR 15239 [-/127.0.0.1/-/1ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:44)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 15239
+hostname: xy2
+
+2019-05-24 11:39:26,425 ERROR 15502 [-/127.0.0.1/-/29ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:44)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 15502
+hostname: xy2
+
+2019-05-24 11:39:27,353 ERROR 15502 [-/127.0.0.1/-/6ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:44)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 15502
+hostname: xy2
+
+2019-05-24 11:39:27,619 ERROR 15502 [-/127.0.0.1/-/2ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:44)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 15502
+hostname: xy2
+
+2019-05-24 11:39:27,819 ERROR 15502 [-/127.0.0.1/-/2ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:44)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 15502
+hostname: xy2
+
+2019-05-24 11:39:54,830 ERROR 15502 [-/127.0.0.1/-/3ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:44)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 15502
+hostname: xy2
+
+2019-05-24 11:39:55,836 ERROR 15502 [-/127.0.0.1/-/4ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:44)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 15502
+hostname: xy2
+
+2019-05-24 11:40:18,195 ERROR 15502 [-/127.0.0.1/-/4ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:44)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 15502
+hostname: xy2
+
+2019-05-24 11:40:20,458 ERROR 15502 [-/127.0.0.1/-/3ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:44)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 15502
+hostname: xy2
+
+2019-05-24 11:41:20,271 ERROR 15502 [-/127.0.0.1/-/4ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:44)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 15502
+hostname: xy2
+
+2019-05-24 11:50:06,102 ERROR 15502 [-/127.0.0.1/-/3ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:44)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 15502
+hostname: xy2
+
+2019-05-24 11:50:06,938 ERROR 15502 [-/127.0.0.1/-/3ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:44)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 15502
+hostname: xy2
+
+2019-05-24 11:50:07,243 ERROR 15502 [-/127.0.0.1/-/2ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:44)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 15502
+hostname: xy2
+
+2019-05-24 11:50:07,436 ERROR 15502 [-/127.0.0.1/-/2ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:44)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 15502
+hostname: xy2
+
+2019-05-24 11:50:07,629 ERROR 15502 [-/127.0.0.1/-/2ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:44)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 15502
+hostname: xy2
+
+2019-05-24 11:50:07,816 ERROR 15502 [-/127.0.0.1/-/1ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:44)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 15502
+hostname: xy2
+
+2019-05-24 11:50:07,993 ERROR 15502 [-/127.0.0.1/-/1ms POST /api/users] nodejs.TypeError: this.ctx.insert is not a function
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:44)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 15502
+hostname: xy2
+
+2019-05-24 11:50:31,930 ERROR 17030 [-/127.0.0.1/-/22ms POST /api/users] nodejs.TypeError: Cannot read property 'insert' of undefined
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:50)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 17030
+hostname: xy2
+
+2019-05-24 11:50:45,644 ERROR 17030 [-/127.0.0.1/-/4ms POST /api/users] nodejs.TypeError: Cannot read property 'insert' of undefined
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:41:50)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 17030
+hostname: xy2
+
+2019-05-24 12:58:27,551 ERROR 22496 [-/127.0.0.1/-/13ms POST /api/users/login] nodejs.ReferenceError: error is not defined
+    at UserService.login (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:76:13)
+    at UserController.login (/home/nianxiongdi/Development/egg/egg_blog/app/controller/user.js:22:44)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+    at next (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:45:18)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+
+pid: 22496
+hostname: xy2
+
+2019-05-24 12:59:05,507 ERROR 22535 [-/127.0.0.1/-/12ms POST /api/users/login] nodejs.ReferenceError: error is not defined
+    at UserService.login (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:77:13)
+    at UserController.login (/home/nianxiongdi/Development/egg/egg_blog/app/controller/user.js:22:44)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+    at next (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:45:18)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+
+pid: 22535
+hostname: xy2
+
+2019-05-24 13:00:37,343 ERROR 22605 [-/127.0.0.1/-/16ms POST /api/users/login] nodejs.ReferenceError: error is not defined
+    at UserService.login (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:78:13)
+    at UserController.login (/home/nianxiongdi/Development/egg/egg_blog/app/controller/user.js:22:44)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+    at next (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:45:18)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+
+pid: 22605
+hostname: xy2
+
+2019-05-25 11:56:28,570 ERROR 9312 [-/127.0.0.1/-/45ms POST /api/users/login] nodejs.ReferenceError: error is not defined
+    at UserService.login (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:109:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 9312
+hostname: xy2
+
+2019-05-25 11:57:30,537 ERROR 9397 [-/127.0.0.1/-/14ms POST /api/users/login] nodejs.ReferenceError: password is not defined
+    at UserService.login (/home/nianxiongdi/Development/egg/egg_blog/app/service/user.js:85:38)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 9397
+hostname: xy2
+
+2019-05-25 12:08:40,250 ERROR 10363 [-/127.0.0.1/-/9ms GET /api/blog?offset=0&limit=5&order=DESC] nodejs.TypeError: this.service.user.adminList is not a function
+    at BlogController.adminList (/home/nianxiongdi/Development/egg/egg_blog/app/controller/blog.js:17:33)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+    at next (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:45:18)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:36:12
+
+pid: 10363
+hostname: xy2
+
+2019-05-25 12:09:00,111 ERROR 10401 [-/127.0.0.1/-/7ms GET /api/blog?offset=0&limit=5&order=DESC] nodejs.TypeError: this.service.user.adminList is not a function
+    at BlogController.adminList (/home/nianxiongdi/Development/egg/egg_blog/app/controller/blog.js:17:33)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+    at next (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:45:18)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:36:12
+
+pid: 10401
+hostname: xy2
+
+2019-05-25 12:09:29,569 ERROR 10431 [-/127.0.0.1/-/15ms GET /api/blog?offset=0&limit=5&order=DESC] nodejs.TypeError: "" is not a function
+    at BlogService.adminList (/home/nianxiongdi/Development/egg/egg_blog/app/service/blog.js:26:50)
+    at BlogController.adminList (/home/nianxiongdi/Development/egg/egg_blog/app/controller/blog.js:17:33)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+    at next (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:45:18)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+
+pid: 10431
+hostname: xy2
+
+2019-05-25 12:10:12,599 ERROR 10473 [-/127.0.0.1/-/8ms GET /api/blog?offset=0&limit=5&order=DESC] nodejs.TypeError: "" is not a function
+    at BlogService.adminList (/home/nianxiongdi/Development/egg/egg_blog/app/service/blog.js:26:50)
+    at BlogController.adminList (/home/nianxiongdi/Development/egg/egg_blog/app/controller/blog.js:17:33)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+    at next (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:45:18)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+
+pid: 10473
+hostname: xy2
+
+2019-05-25 12:10:47,082 ERROR 10525 [-/127.0.0.1/-/15ms GET /api/blog?offset=0&limit=5&order=DESC] nodejs.TypeError: "" is not a function
+    at BlogService.adminList (/home/nianxiongdi/Development/egg/egg_blog/app/service/blog.js:26:50)
+    at BlogController.adminList (/home/nianxiongdi/Development/egg/egg_blog/app/controller/blog.js:17:33)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+    at next (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:45:18)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+
+pid: 10525
+hostname: xy2
+
+2019-05-25 12:11:03,988 ERROR 10572 [-/127.0.0.1/-/8ms GET /api/blog?offset=0&limit=5&order=DESC] nodejs.TypeError: "" is not a function
+    at BlogService.adminList (/home/nianxiongdi/Development/egg/egg_blog/app/service/blog.js:26:50)
+    at BlogController.adminList (/home/nianxiongdi/Development/egg/egg_blog/app/controller/blog.js:19:33)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+    at next (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:45:18)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+
+pid: 10572
+hostname: xy2
+
+2019-05-25 12:11:42,588 ERROR 10643 [-/127.0.0.1/-/7ms GET /api/blog?offset=0&limit=5&order=DESC] nodejs.TypeError: "" is not a function
+    at BlogService.adminList (/home/nianxiongdi/Development/egg/egg_blog/app/service/blog.js:26:50)
+    at BlogController.adminList (/home/nianxiongdi/Development/egg/egg_blog/app/controller/blog.js:19:33)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+    at next (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:45:18)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+
+pid: 10643
+hostname: xy2
+
+2019-05-25 12:12:28,407 ERROR 10712 [-/127.0.0.1/-/12ms GET /api/blog?offset=0&limit=5&order=DESC] nodejs.ReferenceError: consolo is not defined
+    at BlogService.adminList (/home/nianxiongdi/Development/egg/egg_blog/app/service/blog.js:27:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 10712
+hostname: xy2
+
+2019-05-25 13:19:45,521 ERROR 15254 [-/127.0.0.1/-/6ms GET /api/blog?offset=0&limit=5&order=DESC] nodejs.TypeError: params is not iterable
+    at BlogService.adminList (/home/nianxiongdi/Development/egg/egg_blog/app/service/blog.js:30:62)
+    at BlogController.adminList (/home/nianxiongdi/Development/egg/egg_blog/app/controller/blog.js:19:33)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+    at next (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:45:18)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+
+pid: 15254
+hostname: xy2
+
+2019-05-25 13:28:43,027 ERROR 16126 [-/127.0.0.1/-/9ms GET /api/blog?offset=0&limit=5&order=DESC] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''DESC' limit  '5' offset '0'' at line 1
+    at Query.Sequence._packetToError (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:65:19)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:54:5
+    sql: select blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at 'DESC' limit  '5' offset '0'
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''DESC' limit  '5' offset '0'' at line 1"
+sqlState: "42000"
+index: 0
+sql: "select blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at 'DESC' limit  '5' offset '0'"
+name: "ER_PARSE_ERRORError"
+pid: 16126
+hostname: xy2
+
+2019-05-25 13:29:21,222 ERROR 16126 [-/127.0.0.1/-/2ms GET /api/blog?offset=0&limit=5&order=DESC] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''DESC' limit  '5' offset '0'' at line 1
+    at Query.Sequence._packetToError (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:65:19)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:54:5
+    sql: select blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at 'DESC' limit  '5' offset '0'
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''DESC' limit  '5' offset '0'' at line 1"
+sqlState: "42000"
+index: 0
+sql: "select blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at 'DESC' limit  '5' offset '0'"
+name: "ER_PARSE_ERRORError"
+pid: 16126
+hostname: xy2
+
+2019-05-25 13:31:14,368 ERROR 16345 [-/127.0.0.1/-/11ms GET /api/blog?offset=0&limit=5&order=DESC] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`${params['order']}` limit  NULL offset '5'' at line 1
+    at Query.Sequence._packetToError (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:65:19)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:54:5
+    sql: select blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at `${params['order']}` limit  NULL offset '5'
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`${params['order']}` limit  NULL offset '5'' at line 1"
+sqlState: "42000"
+index: 0
+sql: "select blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at `${params['order']}` limit  NULL offset '5'"
+name: "ER_PARSE_ERRORError"
+pid: 16345
+hostname: xy2
+
+2019-05-25 13:31:46,946 ERROR 16399 [-/127.0.0.1/-/9ms GET /api/blog?offset=0&limit=5&order=DESC] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`${params['order']}` limit  '5' offset '0'' at line 1
+    at Query.Sequence._packetToError (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:65:19)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:54:5
+    sql: select blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at `${params['order']}` limit  '5' offset '0'
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`${params['order']}` limit  '5' offset '0'' at line 1"
+sqlState: "42000"
+index: 0
+sql: "select blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at `${params['order']}` limit  '5' offset '0'"
+name: "ER_PARSE_ERRORError"
+pid: 16399
+hostname: xy2
+
+2019-05-25 13:33:01,105 ERROR 16560 [-/127.0.0.1/-/9ms GET /api/blog?offset=0&limit=5&order=DESC] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '${params['order']} limit  '5' offset '0'' at line 1
+    at Query.Sequence._packetToError (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:65:19)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:54:5
+    sql: select blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at ${params['order']} limit  '5' offset '0'
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '${params['order']} limit  '5' offset '0'' at line 1"
+sqlState: "42000"
+index: 0
+sql: "select blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at ${params['order']} limit  '5' offset '0'"
+name: "ER_PARSE_ERRORError"
+pid: 16560
+hostname: xy2
+
+2019-05-25 13:33:24,701 ERROR 16681 [-/127.0.0.1/-/11ms GET /api/blog?offset=0&limit=5&order=DESC] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '${params.order} limit  '5' offset '0'' at line 1
+    at Query.Sequence._packetToError (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:65:19)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:54:5
+    sql: select blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at ${params.order} limit  '5' offset '0'
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '${params.order} limit  '5' offset '0'' at line 1"
+sqlState: "42000"
+index: 0
+sql: "select blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at ${params.order} limit  '5' offset '0'"
+name: "ER_PARSE_ERRORError"
+pid: 16681
+hostname: xy2
+
+2019-05-25 13:34:12,778 ERROR 16738 [-/127.0.0.1/-/8ms GET /api/blog?offset=0&limit=5&order=DESC] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''5' offset '0'' at line 1
+    at Query.Sequence._packetToError (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:65:19)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:54:5
+    sql: select blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at DESC limit  '5' offset '0'
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''5' offset '0'' at line 1"
+sqlState: "42000"
+index: 0
+sql: "select blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at DESC limit  '5' offset '0'"
+name: "ER_PARSE_ERRORError"
+pid: 16738
+hostname: xy2
+
+2019-05-25 15:25:35,323 ERROR 25662 [-/127.0.0.1/-/2ms GET /api/catalog] nodejs.TypeError: Cannot read property 'get' of undefined
+    at CatalogService.list (/home/nianxiongdi/Development/egg/egg_blog/app/service/catalog.js:14:47)
+    at CatalogController.list (/home/nianxiongdi/Development/egg/egg_blog/app/controller/catalog.js:10:36)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+    at next (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:45:18)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+
+pid: 25662
+hostname: xy2
+
+2019-05-25 15:26:34,003 ERROR 25662 [-/127.0.0.1/-/0ms GET /api/catalog] nodejs.TypeError: Cannot read property 'get' of undefined
+    at CatalogService.list (/home/nianxiongdi/Development/egg/egg_blog/app/service/catalog.js:14:47)
+    at CatalogController.list (/home/nianxiongdi/Development/egg/egg_blog/app/controller/catalog.js:10:36)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+    at next (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:45:18)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+
+pid: 25662
+hostname: xy2
+
+2019-05-26 19:37:25,189 ERROR 3626 [-/127.0.0.1/-/7ms GET /api/blog] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined limit  NaN offset NaN' at line 1
+    at Query.Sequence._packetToError (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:65:19)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:54:5
+    sql: select SQL_CALC_FOUND_ROWS blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at undefined limit  NaN offset NaN
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined limit  NaN offset NaN' at line 1"
+sqlState: "42000"
+index: 0
+sql: "select SQL_CALC_FOUND_ROWS blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at undefined limit  NaN offset NaN"
+name: "ER_PARSE_ERRORError"
+pid: 3626
+hostname: xy2
+
+2019-05-26 19:38:04,664 ERROR 3626 [-/::1/-/4ms GET /api/blog] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined limit  NaN offset NaN' at line 1
+    at Query.Sequence._packetToError (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:65:19)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:54:5
+    sql: select SQL_CALC_FOUND_ROWS blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at undefined limit  NaN offset NaN
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined limit  NaN offset NaN' at line 1"
+sqlState: "42000"
+index: 0
+sql: "select SQL_CALC_FOUND_ROWS blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at undefined limit  NaN offset NaN"
+name: "ER_PARSE_ERRORError"
+pid: 3626
+hostname: xy2
+
+2019-05-26 19:39:19,291 ERROR 3626 [-/::1/-/1ms GET /api/blog] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined limit  NaN offset NaN' at line 1
+    at Query.Sequence._packetToError (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:65:19)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:54:5
+    sql: select SQL_CALC_FOUND_ROWS blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at undefined limit  NaN offset NaN
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined limit  NaN offset NaN' at line 1"
+sqlState: "42000"
+index: 0
+sql: "select SQL_CALC_FOUND_ROWS blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at undefined limit  NaN offset NaN"
+name: "ER_PARSE_ERRORError"
+pid: 3626
+hostname: xy2
+
+2019-05-26 19:39:20,514 ERROR 3626 [-/::1/-/3ms GET /api/blog] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined limit  NaN offset NaN' at line 1
+    at Query.Sequence._packetToError (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:65:19)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:54:5
+    sql: select SQL_CALC_FOUND_ROWS blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at undefined limit  NaN offset NaN
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined limit  NaN offset NaN' at line 1"
+sqlState: "42000"
+index: 0
+sql: "select SQL_CALC_FOUND_ROWS blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at undefined limit  NaN offset NaN"
+name: "ER_PARSE_ERRORError"
+pid: 3626
+hostname: xy2
+
+2019-05-26 19:39:58,289 ERROR 3626 [-/::1/-/3ms GET /api/blog] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined limit  NaN offset NaN' at line 1
+    at Query.Sequence._packetToError (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:65:19)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:54:5
+    sql: select SQL_CALC_FOUND_ROWS blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at undefined limit  NaN offset NaN
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined limit  NaN offset NaN' at line 1"
+sqlState: "42000"
+index: 0
+sql: "select SQL_CALC_FOUND_ROWS blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at undefined limit  NaN offset NaN"
+name: "ER_PARSE_ERRORError"
+pid: 3626
+hostname: xy2
+
+2019-05-26 19:39:59,679 ERROR 3626 [-/::1/-/1ms GET /api/blog] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined limit  NaN offset NaN' at line 1
+    at Query.Sequence._packetToError (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:65:19)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:54:5
+    sql: select SQL_CALC_FOUND_ROWS blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at undefined limit  NaN offset NaN
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined limit  NaN offset NaN' at line 1"
+sqlState: "42000"
+index: 0
+sql: "select SQL_CALC_FOUND_ROWS blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at undefined limit  NaN offset NaN"
+name: "ER_PARSE_ERRORError"
+pid: 3626
+hostname: xy2
+
+2019-05-26 19:40:05,116 ERROR 3626 [-/::1/-/3ms GET /api/blog] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined limit  NaN offset NaN' at line 1
+    at Query.Sequence._packetToError (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:65:19)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:54:5
+    sql: select SQL_CALC_FOUND_ROWS blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at undefined limit  NaN offset NaN
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined limit  NaN offset NaN' at line 1"
+sqlState: "42000"
+index: 0
+sql: "select SQL_CALC_FOUND_ROWS blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at undefined limit  NaN offset NaN"
+name: "ER_PARSE_ERRORError"
+pid: 3626
+hostname: xy2
+
+2019-05-26 19:40:23,923 ERROR 4611 [-/::1/-/12ms GET /api/blog] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined limit  NaN offset NaN' at line 1
+    at Query.Sequence._packetToError (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:65:19)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:54:5
+    sql: select SQL_CALC_FOUND_ROWS blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at undefined limit  NaN offset NaN
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined limit  NaN offset NaN' at line 1"
+sqlState: "42000"
+index: 0
+sql: "select SQL_CALC_FOUND_ROWS blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at undefined limit  NaN offset NaN"
+name: "ER_PARSE_ERRORError"
+pid: 4611
+hostname: xy2
+
+2019-05-26 19:41:29,707 ERROR 4611 [-/::1/-/4ms GET /api/blog] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined limit  NaN offset NaN' at line 1
+    at Query.Sequence._packetToError (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:65:19)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:54:5
+    sql: select SQL_CALC_FOUND_ROWS blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at undefined limit  NaN offset NaN
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined limit  NaN offset NaN' at line 1"
+sqlState: "42000"
+index: 0
+sql: "select SQL_CALC_FOUND_ROWS blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at undefined limit  NaN offset NaN"
+name: "ER_PARSE_ERRORError"
+pid: 4611
+hostname: xy2
+
+2019-05-26 19:41:46,992 ERROR 4611 [-/::1/-/2ms GET /api/blog] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined limit  NaN offset NaN' at line 1
+    at Query.Sequence._packetToError (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:65:19)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:54:5
+    sql: select SQL_CALC_FOUND_ROWS blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at undefined limit  NaN offset NaN
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined limit  NaN offset NaN' at line 1"
+sqlState: "42000"
+index: 0
+sql: "select SQL_CALC_FOUND_ROWS blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at undefined limit  NaN offset NaN"
+name: "ER_PARSE_ERRORError"
+pid: 4611
+hostname: xy2
+
+2019-05-26 19:44:23,753 ERROR 5205 [-/::1/-/6ms GET /api/blog] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined limit  NaN offset NaN' at line 1
+    at Query.Sequence._packetToError (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:65:19)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:54:5
+    sql: select SQL_CALC_FOUND_ROWS blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at undefined limit  NaN offset NaN
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined limit  NaN offset NaN' at line 1"
+sqlState: "42000"
+index: 0
+sql: "select SQL_CALC_FOUND_ROWS blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at undefined limit  NaN offset NaN"
+name: "ER_PARSE_ERRORError"
+pid: 5205
+hostname: xy2
+
+2019-05-26 19:45:25,041 ERROR 5205 [-/::1/-/1ms GET /api/blog] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined limit  NaN offset NaN' at line 1
+    at Query.Sequence._packetToError (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    --------------------
+    at Pool.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:65:19)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:54:5
+    sql: select SQL_CALC_FOUND_ROWS blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at undefined limit  NaN offset NaN
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'undefined limit  NaN offset NaN' at line 1"
+sqlState: "42000"
+index: 0
+sql: "select SQL_CALC_FOUND_ROWS blogs.id,blogs.user_id, blogs.title,blogs.tags,  blogs.commentSize, blogs.summary ,catalogs.name  from blogs   join catalogs on blogs.catalog_id = catalogs.id  order by blogs.created_at undefined limit  NaN offset NaN"
+name: "ER_PARSE_ERRORError"
+pid: 5205
+hostname: xy2
+
+2019-05-26 21:30:56,574 ERROR 12513 [-/127.0.0.1/-/2ms DELETE /api/users/1/blog/11] nodejs.ReferenceError: ctx is not defined
+    at BlogController.deleteById (/home/nianxiongdi/Development/egg/egg_blog/app/controller/blog.js:32:9)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+    at next (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:45:18)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:36:12
+
+pid: 12513
+hostname: xy2
+
+2019-05-26 21:31:05,508 ERROR 12513 [-/127.0.0.1/-/0ms DELETE /api/users/1/blog/4] nodejs.ReferenceError: ctx is not defined
+    at BlogController.deleteById (/home/nianxiongdi/Development/egg/egg_blog/app/controller/blog.js:32:9)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+    at next (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:45:18)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:36:12
+
+pid: 12513
+hostname: xy2
+
+2019-05-26 21:31:51,265 ERROR 12513 [-/127.0.0.1/-/0ms DELETE /api/users/1/blog/13] nodejs.ReferenceError: ctx is not defined
+    at BlogController.deleteById (/home/nianxiongdi/Development/egg/egg_blog/app/controller/blog.js:32:9)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+    at next (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:45:18)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:36:12
+
+pid: 12513
+hostname: xy2
+

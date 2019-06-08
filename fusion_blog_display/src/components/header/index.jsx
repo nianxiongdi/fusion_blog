@@ -3,15 +3,38 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { Link, withRouter } from 'react-router-dom';
-import { Nav, Balloon, Menu, Icon } from '@alifd/next';
+import { Nav, Button,  Balloon, Menu, Icon } from '@alifd/next';
+import Cookies from 'js-cookie'
+import { connect } from 'react-redux'
+
+
+import Login from '../login'
 
 import { headerMenuConfig } from '../../menuConfig';
+import { logout } from '../../redux/user.redux'
 
 import './index.scss';
 const { SubNav, Item: NavItem } = Nav;
 
-@withRouter
+@connect(
+  state => state.user,
+  { logout }
+)
 class Header extends Component {
+
+
+  constructor(props) {
+    super(props);
+    this.state = {
+      visible: false
+    }
+
+    this.close = this.close.bind(this)
+
+  }
+
+
+
   static propTypes = {
     dataSource: PropTypes.object,
     fullHeader: PropTypes.bool,
@@ -25,9 +48,55 @@ class Header extends Component {
     fullHeader: true,
   };
 
-  constructor(props) {
-    super(props);
+  close(){
+    this.setState( {
+      visible: false
+    });
   }
+
+
+  alreadyLogin() {
+    const userinfo = {
+      avatarUrl: 'https://s2.ax1x.com/2019/06/01/V3HHVx.png',
+      displayName: '已登录',
+    };
+
+    const trigger = (
+      <a  href="javascript:void(0)" style={{ textDecoration: 'none' }}>
+        <img src={userinfo.avatarUrl} className="avatar" alt="头像" />
+        <span className="name" >{userinfo.displayName}</span>
+      </a>
+    );
+
+    return <div>
+      <Balloon
+        autoFocus
+        trigger={trigger}
+        triggerType={['hover', 'click']}
+        closable={false}
+        offset={[0, 10]}
+        style={{ padding: 4 }}
+      >
+        <Menu style={{ border: 'none' }}>
+          {/* <Menu.Item>
+            <a href="/personal/register">个人设置</a>
+          </Menu.Item> */}
+          <Menu.Item>
+            <a href="javascript:void(0)"
+            onClick={ () => {
+              Cookies.remove("token")
+              Cookies.remove("username")
+              Cookies.remove("user_id")
+              this.props.logout()
+              this.props.history.push('/app/index')
+              }}  >退出登录</a>
+          </Menu.Item>
+        </Menu>
+      </Balloon>
+    </div>
+
+  }
+
 
   header() {
     return (
@@ -40,38 +109,13 @@ class Header extends Component {
     );
   }
   footer() {
-    const userinfo = {
-      avatarUrl: '//img.alicdn.com/tps/TB1kssgNXXXXXc_aXXXXXXXXXXX-56-56.png',
-      displayName: '未登录',
-    };
-
-    const trigger = (
-      <a href="/my" style={{ textDecoration: 'none' }}>
-        <img src={userinfo.avatarUrl} className="avatar" alt="头像" />
-        <span className="name">{userinfo.displayName}</span>
-      </a>
-    );
-
-    return (
-      <div>
-        <Balloon
-          autoFocus
-          trigger={trigger}
-          triggerType={['hover', 'click']}
-          closable={false}
-          offset={[0, 10]}
-          style={{ padding: 4 }}
-        >
-          <Menu style={{ border: 'none' }}>
-            <Menu.Item>
-              <a href="/personal/register">个人设置</a>
-            </Menu.Item>
-            <Menu.Item>
-              <a href="/logout">退出登录</a>
-            </Menu.Item>
-          </Menu>
-        </Balloon>
+     return (
+        Cookies.get("token") ? this.alreadyLogin() : <div>
+        <Button type="normal" onClick={()=>{this.setState({visible:!this.state.visible})}} style={{marginRight: 10}} >登录</Button>
+        <Button type="normal" >注册</Button>
       </div>
+
+
     );
   }
   render() {
@@ -165,6 +209,7 @@ class Header extends Component {
     return (
       <div className="header" id="header">
         {fullHeader ? content : <div className="header-limit">{content}</div>}
+        <Login visible={this.state.visible} closed={this.close}/>
       </div>
     );
   }

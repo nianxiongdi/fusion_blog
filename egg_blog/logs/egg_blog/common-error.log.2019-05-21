@@ -1,0 +1,30 @@
+2019-05-20 23:49:36,181 ERROR 20980 [-/127.0.0.1/-/5ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg/lib/application.js:257:15)
+    at Object.get cookies [as cookies] (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-security/app/extend/context.js:86:33)
+    at Object.ensureCsrfSecret (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-security/app/extend/context.js:97:13)
+    at csrf (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-session/index.js:41:13)
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 20980
+hostname: xy2
+
+2019-05-20 23:51:31,627 ERROR 21232 [-/127.0.0.1/-/18ms GET /] nodejs.ReferenceError: ctx is not defined
+    at BlogController.index (/home/nianxiongdi/Development/egg/egg_blog/app/controller/home.js:9:9)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+    at next (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:45:18)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:36:12
+
+pid: 21232
+hostname: xy2
+

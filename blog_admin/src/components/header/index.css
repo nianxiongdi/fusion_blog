@@ -1,0 +1,25 @@
+.header-aside-footer-layout {
+  width: 100%;
+}
+
+.header-aside-footer-layout .body {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  height: calc(100vh - 44px);
+}
+
+.header-aside-footer-layout .body .aside {
+  width: 260px;
+  padding-top: 10px;
+}
+
+.header-aside-footer-layout .body .main {
+  transition: padding-left 0.5s;
+  width: 100%;
+  overflow-y: scroll;
+}
+
+.header-aside-footer-layout .body .main.right-content-full {
+  padding-left: 185px;
+}

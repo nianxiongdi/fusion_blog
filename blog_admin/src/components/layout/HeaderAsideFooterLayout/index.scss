@@ -1,0 +1,13 @@
+.header-aside-footer-layout {
+  display: flex;
+
+  .aside {
+    height: 100vh;
+    width: 25vh;
+    padding-top: 10px;
+  }
+
+  .body {
+    width: 100%;
+  }
+}

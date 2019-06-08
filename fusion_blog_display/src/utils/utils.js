@@ -23,7 +23,8 @@ export const color = [
   'purple'
 ]
 
-export function getDateDiff(dateTimeStamp) {
+export function getDateDiff(date) {
+  const dateTimeStamp = new Date(date);
   var minute = 1000 * 60
   var hour = minute * 60
   var day = hour * 24

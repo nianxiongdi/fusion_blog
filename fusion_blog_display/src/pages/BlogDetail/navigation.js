@@ -8,11 +8,16 @@ class Navigation extends Component {
     }
     this.getMenuList = this.getMenuList.bind(this)
   }
-  componentDidMount() {
-    this.getMenuList(this.props.content)
-  }
+  // componentDidMount() {
+  //   this.getMenuList(this.props.content)
+  // }
+
+
+
+
   getMenuList(content) {
-    // console.log(content)
+    console.log(content);
+    console.log('******')
     const issues = content
     const menu = []
     const patt = /(#+)\s+?(.+)/g
@@ -65,17 +70,21 @@ class Navigation extends Component {
 
     }
 
-    console.log(menuObj);
-    this.setState({
-      menuList: menuObj
-    })
+    // console.log(menuObj);
+    // this.setState({
+    //   menuList:
+    // })
+    return menuObj;
   }
 
   render() {
+    // console.log(this.props.content);
+
+    const menuList = this.getMenuList(this.props.content);
     return (
       <div className="article-navigation-content">
         <ul>
-          {this.state.menuList.map(level2 => (
+          {menuList.map(level2 => (
             <li key={level2.id}
               style={{
                   listStyleType: level2.title ? 'disc' : 'none' ,

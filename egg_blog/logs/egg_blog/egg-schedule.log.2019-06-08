@@ -1,0 +1,285 @@
+2019-06-08 04:30:00,010 INFO 26540 [Timer] /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 86399996ms at 2019-06-09 04:30:00.006
+2019-06-08 04:30:00,005 INFO 3717 [Job#1559939400004432395517396631] /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js executing by app
+2019-06-08 04:30:00,010 INFO 3717 [Job#1559939400004432395517396631] /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js execute succeed, used 5ms
+2019-06-08 09:39:43,864 INFO 26106 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 09:39:43,864 INFO 26106 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 09:39:43,864 INFO 26106 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 10:00:12,032 INFO 27048 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 10:00:12,032 INFO 27048 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 10:00:12,032 INFO 27048 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 10:06:17,883 INFO 29531 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 10:06:17,883 INFO 29531 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 10:06:17,883 INFO 29531 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 10:08:58,233 INFO 29676 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 10:08:58,233 INFO 29676 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 10:08:58,233 INFO 29676 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 10:08:58,757 INFO 29686 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 10:08:58,757 INFO 29686 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 10:08:58,757 INFO 29686 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 10:19:43,385 INFO 30472 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 10:19:43,385 INFO 30472 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 10:19:43,385 INFO 30472 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 10:21:45,295 INFO 30635 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 10:21:45,295 INFO 30635 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 10:21:45,295 INFO 30635 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 10:22:35,023 INFO 30694 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 10:22:35,023 INFO 30694 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 10:22:35,023 INFO 30694 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 10:22:52,360 INFO 30709 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 10:22:52,360 INFO 30709 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 10:22:52,360 INFO 30709 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 10:24:04,468 INFO 30802 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 10:24:04,468 INFO 30802 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 10:24:04,468 INFO 30802 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 10:34:39,144 INFO 31096 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 10:34:39,144 INFO 31096 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 10:34:39,144 INFO 31096 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 10:34:47,804 INFO 31111 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 10:34:47,804 INFO 31111 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 10:34:47,804 INFO 31111 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 10:34:55,225 INFO 31127 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 10:34:55,225 INFO 31127 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 10:34:55,225 INFO 31127 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 10:34:56,306 INFO 31137 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 10:34:56,307 INFO 31137 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 10:34:56,307 INFO 31137 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 10:36:02,564 INFO 31183 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 10:36:02,564 INFO 31183 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 10:36:02,564 INFO 31183 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 10:47:44,077 INFO 31508 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 10:47:44,077 INFO 31508 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 10:47:44,077 INFO 31508 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 10:47:49,523 INFO 31520 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 10:47:49,523 INFO 31520 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 10:47:49,523 INFO 31520 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 10:48:05,532 INFO 31541 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 10:48:05,532 INFO 31541 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 10:48:05,532 INFO 31541 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 10:48:36,374 INFO 31570 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 10:48:36,374 INFO 31570 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 10:48:36,374 INFO 31570 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 10:52:56,803 INFO 31715 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 10:52:56,803 INFO 31715 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 10:52:56,803 INFO 31715 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 10:59:02,919 INFO 31907 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 10:59:02,919 INFO 31907 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 10:59:02,919 INFO 31907 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 10:59:25,790 INFO 31948 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 10:59:25,790 INFO 31948 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 10:59:25,790 INFO 31948 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 10:59:48,002 INFO 31999 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 10:59:48,002 INFO 31999 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 10:59:48,002 INFO 31999 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 11:15:12,871 INFO 32553 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 11:15:12,871 INFO 32553 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 11:15:12,871 INFO 32553 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 11:49:36,628 INFO 1892 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 11:49:36,628 INFO 1892 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 11:49:36,628 INFO 1892 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 11:49:53,597 INFO 1908 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 11:49:53,597 INFO 1908 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 11:49:53,597 INFO 1908 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 11:50:18,109 INFO 1949 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 11:50:18,109 INFO 1949 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 11:50:18,109 INFO 1949 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 11:50:44,731 INFO 1977 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 11:50:44,731 INFO 1977 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 11:50:44,731 INFO 1977 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 11:50:45,935 INFO 2002 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 11:50:45,935 INFO 2002 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 11:50:45,935 INFO 2002 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 11:51:19,592 INFO 2079 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 11:51:19,592 INFO 2079 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 11:51:19,592 INFO 2079 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 11:51:37,146 INFO 2097 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 11:51:37,146 INFO 2097 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 11:51:37,146 INFO 2097 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 11:55:51,089 INFO 2507 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 11:55:51,089 INFO 2507 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 11:55:51,089 INFO 2507 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 11:56:17,836 INFO 2687 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 11:56:17,836 INFO 2687 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 11:56:17,836 INFO 2687 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 11:59:39,533 INFO 3079 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 11:59:39,533 INFO 3079 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 11:59:39,533 INFO 3079 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 11:59:41,285 INFO 3089 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 11:59:41,285 INFO 3089 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 11:59:41,285 INFO 3089 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 12:03:03,959 INFO 3468 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 12:03:03,959 INFO 3468 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 12:03:03,959 INFO 3468 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 12:03:10,491 INFO 3478 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 12:03:10,491 INFO 3478 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 12:03:10,491 INFO 3478 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 12:03:23,533 INFO 3491 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 12:03:23,533 INFO 3491 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 12:03:23,533 INFO 3491 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 12:04:16,546 INFO 3643 [Timer] /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 59143457ms at 2019-06-09 04:30:00.003
+2019-06-08 12:04:16,546 INFO 3643 [Timer] /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 42943454ms at 2019-06-09 00:00:00.000
+2019-06-08 12:04:16,546 INFO 3643 [Timer] /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 42944454ms at 2019-06-09 00:00:01.000
+2019-06-08 12:04:16,459 INFO 3653 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 12:04:16,459 INFO 3653 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 12:04:16,459 INFO 3653 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 12:06:07,649 INFO 3716 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 12:06:07,649 INFO 3716 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 12:06:07,649 INFO 3716 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 12:07:03,203 INFO 3784 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 12:07:03,203 INFO 3784 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 12:07:03,203 INFO 3784 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 12:07:04,106 INFO 3794 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 12:07:04,106 INFO 3794 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 12:07:04,106 INFO 3794 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 12:08:27,248 INFO 3981 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 12:08:27,248 INFO 3981 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 12:08:27,248 INFO 3981 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 12:08:41,005 INFO 4014 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 12:08:41,005 INFO 4014 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 12:08:41,005 INFO 4014 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 12:09:14,742 INFO 4069 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 12:09:14,742 INFO 4069 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 12:09:14,742 INFO 4069 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 12:09:17,600 INFO 4079 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 12:09:17,600 INFO 4079 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 12:09:17,600 INFO 4079 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 12:09:56,833 INFO 4128 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 12:09:56,833 INFO 4128 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 12:09:56,833 INFO 4128 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 12:10:57,006 INFO 4198 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 12:10:57,006 INFO 4198 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 12:10:57,006 INFO 4198 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 12:11:06,849 INFO 4215 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 12:11:06,849 INFO 4215 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 12:11:06,849 INFO 4215 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 12:12:50,814 INFO 4445 [Timer] /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 58629188ms at 2019-06-09 04:30:00.002
+2019-06-08 12:12:50,815 INFO 4445 [Timer] /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 42429186ms at 2019-06-09 00:00:00.000
+2019-06-08 12:12:50,815 INFO 4445 [Timer] /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 42430185ms at 2019-06-09 00:00:01.000
+2019-06-08 12:12:50,724 INFO 4456 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 12:12:50,724 INFO 4456 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 12:12:50,724 INFO 4456 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 12:31:04,704 INFO 5706 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 12:31:04,704 INFO 5706 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 12:31:04,704 INFO 5706 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 12:31:37,618 INFO 5738 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 12:31:37,618 INFO 5738 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 12:31:37,618 INFO 5738 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 12:31:52,374 INFO 5827 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 12:31:52,374 INFO 5827 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 12:31:52,374 INFO 5827 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 14:25:32,244 INFO 10350 [Timer] /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 50667759ms at 2019-06-09 04:30:00.003
+2019-06-08 14:25:32,245 INFO 10350 [Timer] /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 34467755ms at 2019-06-09 00:00:00.000
+2019-06-08 14:25:32,245 INFO 10350 [Timer] /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 34468755ms at 2019-06-09 00:00:01.000
+2019-06-08 14:25:32,155 INFO 10360 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 14:25:32,155 INFO 10360 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 14:25:32,155 INFO 10360 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 14:25:38,953 INFO 10456 [Timer] /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 50661049ms at 2019-06-09 04:30:00.002
+2019-06-08 14:25:38,954 INFO 10456 [Timer] /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 34461046ms at 2019-06-09 00:00:00.000
+2019-06-08 14:25:38,954 INFO 10456 [Timer] /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 34462046ms at 2019-06-09 00:00:01.000
+2019-06-08 14:25:38,867 INFO 10466 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 14:25:38,867 INFO 10466 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 14:25:38,867 INFO 10466 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 14:26:20,009 INFO 10521 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 14:26:20,009 INFO 10521 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 14:26:20,009 INFO 10521 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 14:41:31,427 INFO 11466 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 14:41:31,427 INFO 11466 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 14:41:31,427 INFO 11466 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 15:07:10,309 INFO 13444 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 15:07:10,309 INFO 13444 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 15:07:10,309 INFO 13444 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 15:19:17,240 INFO 14477 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 15:19:17,240 INFO 14477 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 15:19:17,240 INFO 14477 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 15:19:18,916 INFO 14487 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 15:19:18,916 INFO 14487 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 15:19:18,916 INFO 14487 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 15:21:44,343 INFO 14656 [Timer] /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 47295660ms at 2019-06-09 04:30:00.003
+2019-06-08 15:21:44,343 INFO 14656 [Timer] /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 31095657ms at 2019-06-09 00:00:00.000
+2019-06-08 15:21:44,343 INFO 14656 [Timer] /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 31096657ms at 2019-06-09 00:00:01.000
+2019-06-08 15:21:44,255 INFO 14666 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 15:21:44,255 INFO 14666 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 15:21:44,255 INFO 14666 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 15:26:16,861 INFO 14976 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 15:26:16,861 INFO 14976 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 15:26:16,861 INFO 14976 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 15:26:25,675 INFO 15000 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 15:26:25,675 INFO 15000 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 15:26:25,675 INFO 15000 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 15:29:36,718 INFO 15080 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 15:29:36,718 INFO 15080 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 15:29:36,718 INFO 15080 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 15:32:24,027 INFO 15320 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 15:32:24,027 INFO 15320 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 15:32:24,027 INFO 15320 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 16:06:17,911 INFO 18170 [Timer] /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 44622093ms at 2019-06-09 04:30:00.004
+2019-06-08 16:06:17,912 INFO 18170 [Timer] /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 28422089ms at 2019-06-09 00:00:00.001
+2019-06-08 16:06:17,912 INFO 18170 [Timer] /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 28423088ms at 2019-06-09 00:00:01.000
+2019-06-08 16:06:17,822 INFO 18180 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 16:06:17,822 INFO 18180 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 16:06:17,822 INFO 18180 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 16:30:05,666 INFO 19767 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 16:30:05,666 INFO 19767 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 16:30:05,666 INFO 19767 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 16:31:11,506 INFO 19861 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 16:31:11,506 INFO 19861 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 16:31:11,506 INFO 19861 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 16:32:48,298 INFO 19905 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 16:32:48,298 INFO 19905 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 16:32:48,298 INFO 19905 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 16:33:20,548 INFO 19957 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 16:33:20,548 INFO 19957 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 16:33:20,548 INFO 19957 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 17:04:43,237 INFO 21986 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 17:04:43,237 INFO 21986 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 17:04:43,237 INFO 21986 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 17:10:30,140 INFO 22367 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 17:10:30,140 INFO 22367 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 17:10:30,140 INFO 22367 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 17:10:40,425 INFO 22396 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 17:10:40,425 INFO 22396 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 17:10:40,425 INFO 22396 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 17:14:06,613 INFO 22513 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 17:14:06,613 INFO 22513 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 17:14:06,613 INFO 22513 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 17:14:19,400 INFO 22577 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 17:14:19,400 INFO 22577 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 17:14:19,400 INFO 22577 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 17:14:29,420 INFO 22635 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 17:14:29,420 INFO 22635 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 17:14:29,420 INFO 22635 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 17:14:40,005 INFO 22665 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 17:14:40,005 INFO 22665 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 17:14:40,005 INFO 22665 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 17:15:14,850 INFO 22689 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 17:15:14,850 INFO 22689 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 17:15:14,850 INFO 22689 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 17:15:22,196 INFO 22699 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 17:15:22,196 INFO 22699 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 17:15:22,196 INFO 22699 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 17:15:57,944 INFO 22718 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 17:15:57,944 INFO 22718 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 17:15:57,944 INFO 22718 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 17:16:03,331 INFO 22736 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 17:16:03,331 INFO 22736 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 17:16:03,331 INFO 22736 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 17:56:10,100 INFO 24321 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 17:56:10,100 INFO 24321 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 17:56:10,100 INFO 24321 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 17:56:47,080 INFO 24353 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 17:56:47,080 INFO 24353 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 17:56:47,080 INFO 24353 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 17:57:00,429 INFO 24370 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 17:57:00,430 INFO 24370 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 17:57:00,430 INFO 24370 [egg-schedule]: register schedule /home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-08 23:11:09,830 INFO 5295 [Timer] /home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 19130183ms at 2019-06-09 04:30:00.013
+2019-06-08 23:11:09,831 INFO 5295 [Timer] /home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 2930170ms at 2019-06-09 00:00:00.001
+2019-06-08 23:11:09,832 INFO 5295 [Timer] /home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 2931169ms at 2019-06-09 00:00:01.001
+2019-06-08 23:11:09,707 INFO 5305 [egg-schedule]: register schedule /home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-08 23:11:09,707 INFO 5305 [egg-schedule]: register schedule /home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-08 23:11:09,707 INFO 5305 [egg-schedule]: register schedule /home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-09 00:00:00,005 INFO 5305 [Job#156000960000236975511496051] /home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2019-06-09 00:00:00,011 INFO 5305 [Job#156000960000236975511496051] /home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 5ms
+2019-06-09 00:00:00,008 INFO 5295 [Timer] /home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 86399996ms at 2019-06-10 00:00:00.004
+2019-06-09 00:00:01,002 INFO 5305 [Job#156000960100236985503465911] /home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2019-06-09 00:00:01,011 INFO 5305 [Job#156000960100236985503465911] /home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 9ms
+2019-06-09 00:00:01,008 INFO 5295 [Timer] /home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 86399998ms at 2019-06-10 00:00:01.006

@@ -1,0 +1,92 @@
+2019-06-08 10:22:57,954 ERROR 30709 [-/127.0.0.1/-/11ms POST /api/users/comment] nodejs.TypeError: ctx.service.create is not a function
+    at CommentController.create (/home/nianxiongdi/Development/egg/egg_blog/app/controller/comment.js:15:27)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/home/nianxiongdi/Development/egg/egg_blog/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+    at next (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:45:18)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:44:32)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/koa-compose/index.js:36:12
+
+pid: 30709
+hostname: xy2
+
+2019-06-08 12:10:05,991 ERROR 4128 [-/127.0.0.1/-/20ms POST /api/users/comment] nodejs.Error: Can not auto detect update condition, please set options.where, or make sure obj.id exists
+    at RDSClient.proto.update (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/operator.js:151:13)
+    at proto.update.next (<anonymous>)
+    at onFulfilled (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:65:19)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:54:5
+    at new Promise (<anonymous>)
+    at RDSClient.co (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:50:10)
+    at RDSClient.createPromise [as update] (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:30:15)
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/comment.js:45:48)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 4128
+hostname: xy2
+
+2019-06-08 12:10:29,059 ERROR 4128 [-/127.0.0.1/-/13ms POST /api/users/comment] nodejs.Error: Can not auto detect update condition, please set options.where, or make sure obj.id exists
+    at RDSClient.proto.update (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/operator.js:151:13)
+    at proto.update.next (<anonymous>)
+    at onFulfilled (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:65:19)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:54:5
+    at new Promise (<anonymous>)
+    at RDSClient.co (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:50:10)
+    at RDSClient.createPromise [as update] (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:30:15)
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/comment.js:45:48)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 4128
+hostname: xy2
+
+2019-06-08 12:11:11,761 ERROR 4215 [-/127.0.0.1/-/15ms POST /api/users/comment] nodejs.Error: Can not auto detect update condition, please set options.where, or make sure obj.id exists
+    at RDSClient.proto.update (/home/nianxiongdi/Development/egg/egg_blog/node_modules/ali-rds/lib/operator.js:151:13)
+    at proto.update.next (<anonymous>)
+    at onFulfilled (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:65:19)
+    at /home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:54:5
+    at new Promise (<anonymous>)
+    at RDSClient.co (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:50:10)
+    at RDSClient.createPromise [as update] (/home/nianxiongdi/Development/egg/egg_blog/node_modules/co/index.js:30:15)
+    at UserService.create (/home/nianxiongdi/Development/egg/egg_blog/app/service/comment.js:47:48)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 4215
+hostname: xy2
+
+2019-06-08 16:30:40,366 ERROR 19767 [-/127.0.0.1/-/10ms DELETE /api/users/1/blog/1] nodejs.TypeError: Cannot read property 'user_id' of null
+    at BlogService.deleteById (/home/nianxiongdi/Development/egg/egg_blog/app/service/blog.js:94:17)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 19767
+hostname: xy2
+
+2019-06-08 16:31:17,757 ERROR 19861 [-/127.0.0.1/-/5ms DELETE /api/users/1/blog/1] nodejs.TypeError: Cannot read property 'user_id' of null
+    at BlogService.deleteById (/home/nianxiongdi/Development/egg/egg_blog/app/service/blog.js:94:17)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 19861
+hostname: xy2
+
+2019-06-08 16:32:54,425 ERROR 19905 [-/127.0.0.1/-/4ms DELETE /api/users/1/blog/1] nodejs.TypeError: Cannot read property 'user_id' of null
+    at BlogService.deleteById (/home/nianxiongdi/Development/egg/egg_blog/app/service/blog.js:94:17)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 19905
+hostname: xy2
+
+2019-06-08 16:33:30,855 ERROR 19957 [-/127.0.0.1/-/4ms DELETE /api/users/1/blog/1] nodejs.TypeError: Cannot read property 'user_id' of null
+    at BlogService.deleteById (/home/nianxiongdi/Development/egg/egg_blog/app/service/blog.js:94:17)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 19957
+hostname: xy2
+
+2019-06-08 16:34:26,108 ERROR 19957 [-/127.0.0.1/-/5ms DELETE /api/users/1/blog/7] nodejs.TypeError: Cannot read property 'user_id' of null
+    at BlogService.deleteById (/home/nianxiongdi/Development/egg/egg_blog/app/service/blog.js:94:17)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 19957
+hostname: xy2
+

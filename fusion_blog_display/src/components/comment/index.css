@@ -1,0 +1,72 @@
+@charset "UTF-8";
+.comment-wrap {
+  margin: 20px 0 0 0;
+}
+
+.comment-submit {
+  margin: 20px 0 0 0;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.comment-list .ant-list {
+  background: #fff;
+  padding: 10px;
+  margin: 20px 0 0 0;
+}
+
+.blog {
+  width: 1005px;
+}
+
+.blog-ul-li {
+  background-color: white;
+  border-radius: 5px;
+  height: 80px;
+  padding: 10px;
+  margin: 5px;
+}
+
+.blog .content {
+  position: relative;
+}
+
+.blog .content-title > span:first-child {
+  color: #2e3135;
+  font-size: 23px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 360;
+  cursor: pointer;
+}
+
+.blog .content-date {
+  position: absolute;
+  font-size: 12px;
+  font-family: "Times New Roman", Times, serif;
+  right: 8px;
+  color: #333333;
+}
+
+.blog .content-des {
+  font-size: 12px;
+  font-family: "Times New Roman", Times, serif;
+  right: 8px;
+  color: #333333;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.blog .content-ul {
+  list-style: none;
+  /* 将默认的列表符号去掉 */
+}
+
+.blog .content-ul-li {
+  float: left;
+  padding: 5px;
+}
+
+.blog-pagination {
+  float: right;
+  padding-right: 5px;
+}

@@ -1,0 +1,277 @@
+{
+  "keys": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/config/config.default.js",
+  "mysql": {
+    "client": {
+      "host": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/config/config.default.js",
+      "port": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/config/config.default.js",
+      "user": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/config/config.default.js",
+      "password": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/config/config.default.js",
+      "database": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/config/config.default.js"
+    },
+    "app": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/config/config.default.js",
+    "agent": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/config/config.default.js",
+    "default": {
+      "database": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-mysql/config/config.default.js",
+      "connectionLimit": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-mysql/config/config.default.js"
+    }
+  },
+  "security": {
+    "csrf": {
+      "enable": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/config/config.default.js",
+      "useSession": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.default.js",
+      "headerName": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.default.js",
+      "queryName": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.default.js"
+    },
+    "domainWhiteList": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.default.js",
+      "value": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.default.js",
+      "value": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.default.js",
+      "value": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.default.js",
+      "policy": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-session/config/config.default.js",
+    "key": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-watcher/config/config.default.js",
+      "development": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-schedule/config/config.default.js",
+      "file": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-multipart/config/config.default.js",
+    "files": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-static/config/config.default.js",
+    "dir": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-static/config/config.default.js",
+    "preload": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-static/config/config.default.js",
+    "buffer": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-view/config/config.default.js",
+    "cache": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-view/config/config.default.js",
+    "mapping": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+  "name": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+  "proxy": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "version": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "description": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "main": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+      "test": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js"
+    },
+    "author": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "license": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+      "egg-cors": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+      "egg-mysql": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+      "js-md5": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+  "HOME": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+  "rundir": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "notFound": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "sitefile": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "middlewares": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "httpClient": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "encoding": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "formLimit": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "strict": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+      "depth": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "encoding": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "env": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "level": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "outputJSON": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "buffer": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "appLogName": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "coreLogName": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "agentLogName": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "errorLogName": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+      "maxSockets": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+      "maxSockets": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "logging": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+      "port": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+      "hostname": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/home/nianxiongdi/Development/github/learn/fusion/egg_blog/node_modules/egg/config/config.default.js"
+}

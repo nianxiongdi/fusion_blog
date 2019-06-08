@@ -1,5 +1,5 @@
 import axios from 'axios'
-
+import {  Message } from '@alifd/next';
 /**
  * action type
  */
@@ -27,8 +27,11 @@ const initState = {
  * @param {*} action
  */
 export function blog(state=initState, action) {
+
   switch(action.type) {
     case LIST_SUCCESS:
+        console.log(action)
+  console.log('-action')
       return {
         ...state,
         content: action.payload.data.rows,
@@ -38,19 +41,22 @@ export function blog(state=initState, action) {
     case DESC_SUCCESS:
       return {
         ...state,
-        desc: action.payload.data,
+        desc: action.payload.data.blog,
+        comments: action.payload.data.comments,
         tags: action.payload.data.tags,
         msg: action.payload.msg
       }
     case COMMENT_SUCCESS:
+      // console.log(state);
+      // console.log(state.comments);
+      // console.log('-COMMENT_SUCCESS-')
       return {
         ...state,
-        commentSize: state.desc.comment.push({
-          content: action.newComment,
+        commentSize: state.comments.push({
+          id: action.payload.id,
+          content: action.payload.content,
           created_at: +Date.now(),
-          user: {
-            username: action.username
-          }
+          username: action.payload.username,
         })
       }
     case LIST_FAILURE:
@@ -97,12 +103,10 @@ function descFailure(data) {
   }
 }
 
-function commentSuccess(data, comment, username) {
+function commentSuccess(data,) {
   return {
     type: COMMENT_SUCCESS,
-    payload: data,
-    newComment: comment,
-    username: username
+    payload: data.data
   }
 }
 
@@ -153,6 +157,8 @@ export function getBlogDesc(id) {
     axios.get(`/api/blog/${id}`)
       .then(res => {
         if (res.status === 200 && res.data.code === 0) {
+          // console.log(res);
+          // console.log('[][][][]')
           dispatch(descSuccess(res.data))
         } else {
           dispatch(descFailure(res.data.message))
@@ -171,16 +177,24 @@ export function createComment({
   username
 }) {
   return dispatch => {
+    // console.log(username);
     axios.post('/api/users/comment', {
       blog_id,
       user_id,
-      content
+      content,
+      username
     })
     .then(res => {
-      if(res.status === 201 && res.data.code === 0) {
-        dispatch(commentSuccess(res.data, content, username))
+      console.log(res);
+      if(res.status === 200 && res.data.code === 0) {
+        Message.success('评论成功~')
+        console.log(res);
+        console.log('~~success');
+        dispatch(commentSuccess(res.data))
       } else {
-        dispatch(commentFailure(res.data.message))
+        Message.error(res.data.msg)
+        // console.log('+++++++++++')
+        dispatch(commentFailure(res.data.msg))
       }
     })
     .catch(err => {

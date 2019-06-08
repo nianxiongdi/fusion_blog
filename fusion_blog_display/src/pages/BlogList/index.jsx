@@ -4,10 +4,10 @@ import ReactDOM from 'react-dom'
 import { Icon, Pagination } from '@alifd/next';
 import { connect } from 'react-redux'
 import moment from 'moment'
-import './index.scss'
 import {
   getBlogList
 } from '../../redux/blog.redux'
+import './index.scss'
 
 @connect(
   state => state.blog,
@@ -59,7 +59,7 @@ class BlogList extends React.Component {
               <div className="content">
                 <div className="content-title" onClick={()=>this.props.history.push(`/app/blog/detail/${item.id}`)}>
                   <span>{item.title}</span>
-                  <span className="content-date">{ this.formateDate( item.created_at) }</span>
+                  <span className="content-date">{ this.formateDate( item.created_at ) }</span>
                  </div>
                  <div className="content-des">
                     <span>{item.summary}</span>
@@ -68,7 +68,7 @@ class BlogList extends React.Component {
                  <ul className="content-ul">
                    <li className="content-ul-li"><Icon type="smile" />{item.commentSize} |</li>
                    <li className="content-ul-li"><Icon type="set" /> {item.tags} |</li>
-                   <li className="content-ul-li"><Icon type="atm" /> {item.catalog.name}</li>
+                   <li className="content-ul-li"><Icon type="atm" /> {item.name}</li>
                  </ul>
 
               </div>

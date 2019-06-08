@@ -1,0 +1,23 @@
+.image-card {
+  text-align: center;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.img {
+  height: 200px;
+  border-radius: 50%;
+  border: 1px solid orange;
+}
+.custom-card p {
+  color: #999;
+}
+
+.title {
+  margin-bottom: 10px;
+
+  .helpers-line {
+    height: 1px;
+    background: #333333;
+    margin: 0 auto;
+  }
+}

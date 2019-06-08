@@ -2,7 +2,7 @@
 .blog-ul-li {
   background-color: white;
   border-radius: 5px;
-  height: 120px;
+  height: 120px !important;
   padding: 10px;
   margin: 5px;
 }
@@ -14,7 +14,7 @@
 .blog .content-title > span:first-child {
   color: #2e3135;
   font-size: 23px;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
   font-weight: 360;
   cursor: pointer;
 }
@@ -22,14 +22,14 @@
 .blog .content-date {
   position: absolute;
   font-size: 12px;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
   right: 8px;
   color: #333333;
 }
 
 .blog .content-des {
   font-size: 12px;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
   right: 8px;
   color: #333333;
   margin-top: 10px;
