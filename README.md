@@ -36,27 +36,30 @@
 ## 2.1 表设计
 博客系统,主要是以写博客为了,表的设计如下:
 
-`users` - 用户表
+`users` - 用户表<br />
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190607113401121.png)
 
- `blogs` - 博客表
+ `blogs` - 博客表<br />
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190607113552641.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMwNjM4ODMx,size_16,color_FFFFFF,t_70)
 
 
-`catalog` -  目录表 
+`catalog` -  目录表 <br />
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190607113649357.png)
 
 
-`collects` - 收藏表 - 收藏一些链接
+`collects` - 收藏表 - 收藏一些链接<br />
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190607113743374.png)
 
-`comments` - 评论
+`comments` - 评论<br />
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190607120836963.png)
 ## 2.2 前端页面设计
 前端分为两个项目,一个是博客展示,一个是博客管理
 
 ### 2.2.1 博客展示
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190628223543898.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMwNjM4ODMx,size_16,color_FFFFFF,t_70)
+
 对于博客展示主要功能如下:
 * 登录与注册
 * 查看博客/评论
@@ -69,8 +72,10 @@
 *  [**√**] 查看博客和详情
 
 ### 2.2.２ 博客管理
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190628223820336.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMwNjM4ODMx,size_16,color_FFFFFF,t_70)
+
+
 对于博客管理主要功能如下:
+
 * 登录与注册
 * 创建博客
 *  创建分类
