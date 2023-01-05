@@ -17,6 +17,6 @@
     "js-md5": "^0.7.3"
   },
   "devDependencies": {
-    "egg-bin": "^4.13.0"
+    "egg-bin": "^4.20.0"
   }
 }
